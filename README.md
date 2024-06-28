@@ -1,5 +1,6 @@
 **Latar Belakang
-Supermarket adalah salah satu industri ritel makanan. Supermarket tersebut menjual 6 kategori produk, yaitu anggur, buah-buahan, daging, ikan, camilan manis, dan emas. 
+  
+  Supermarket adalah salah satu industri ritel makanan. Supermarket tersebut menjual 6 kategori produk, yaitu anggur, buah-buahan, daging, ikan, camilan manis, dan emas. 
 Terdapat 3 cara pembelian, yaitu melalui website, katalog, dan toko. Untuk tetap kompetitif, supermarket perlu memahami pelanggan mereka dengan baik.
 Dalam menghadapi persaingan dan memajukan usahanya, supermarket ini perlu memahami secara mendalam profil pelanggan, pola pembelian, serta respons terhadap strategi pemasaran.
 
