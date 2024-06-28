@@ -5,7 +5,8 @@ Terdapat 3 cara pembelian, yaitu melalui website, katalog, dan toko. Untuk tetap
 Dalam menghadapi persaingan dan memajukan usahanya, supermarket ini perlu memahami secara mendalam profil pelanggan, pola pembelian, serta respons terhadap strategi pemasaran.
 
 **Pernyataan Masalah
-Untuk meningkatkan penjualan dari produk-produk tersebut, Supermarket tersebut perlu melakukan strategi marketing yg tepat kepada siapa pelanggan yang paling potensial untuk ditargetkan untuk meningkatkan penjualan produk-produk tertentu. 
+
+  Untuk meningkatkan penjualan dari produk-produk tersebut, Supermarket tersebut perlu melakukan strategi marketing yg tepat kepada siapa pelanggan yang paling potensial untuk ditargetkan untuk meningkatkan penjualan produk-produk tertentu. 
 Berdasarkan latar belakang di atas, berikut adalah beberapa rumusan masalah yaitu:
 -Bagaimana demografi pelanggan? (Usia, jenis kelamin, pendidikan, pendapatan, status perkawinan, dll.) 
 Goal : Mengumpulkan data demografi pelanggan (usia, jenis kelamin, pendidikan, pendapatan, status perkawinan, dll) untuk memahami profil pelanggan secara lebih mendalam. 
